@@ -21,7 +21,8 @@ source env/bin/activate
 >> export PYTHONPATH=$PYTHONPATH:./
 ## For Windows
 >> $env:PYTHONPATH = "$env:PYTHONPATH;$(Get-Location)"
-
+```
 4. Execução do projeto
 ```
 tox > evidencia.txt
+```
