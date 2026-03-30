@@ -1,0 +1,6 @@
+pandas
+requests
+pydantic
+strictyaml
+streamlit
+pytest

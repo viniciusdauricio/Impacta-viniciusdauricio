@@ -1,0 +1,4 @@
+2026-03-30 13:35:17.673422 - ERRO: Coluna ausente: name.first
+2026-03-30 15:03:28.286506 - Dados corretos
+2026-03-30 15:03:28.286664 - Dados corretos
+2026-03-30 15:09:36.361376 - Dados corretos
