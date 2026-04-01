@@ -6,7 +6,10 @@ py312: commands[0]> streamlit run src/app.py
   Network URL: http://172.17.104.242:8501
   External URL: http://201.77.192.26:8501
 
-ROOT: [1953] KeyboardInterrupt - teardown started
+ROOT: [6604] KeyboardInterrupt - teardown started
+ROOT: interrupt tox environment: py312
+ROOT: requested interrupt of 6610 from 6604, activate in 0.00
+ROOT: send signal SIGINT(2) to 6610 from 6604 with timeout 0.30
 Index(['gender', 'email', 'phone', 'cell', 'nat', 'name_title', 'name_first',
        'name_last', 'location_street_number', 'location_street_name',
        'location_city', 'location_state', 'location_country',
@@ -29,14 +32,106 @@ Index(['gender', 'email', 'phone', 'cell', 'nat', 'name_title', 'name_first',
        'registered_age', 'id_name', 'id_value', 'picture_large',
        'picture_medium', 'picture_thumbnail'],
       dtype='object')
+Index(['gender', 'email', 'phone', 'cell', 'nat', 'name_title', 'name_first',
+       'name_last', 'location_street_number', 'location_street_name',
+       'location_city', 'location_state', 'location_country',
+       'location_postcode', 'location_coordinates_latitude',
+       'location_coordinates_longitude', 'location_timezone_offset',
+       'location_timezone_description', 'login_uuid', 'login_username',
+       'login_password', 'login_salt', 'login_md5', 'login_sha1',
+       'login_sha256', 'dob_date', 'dob_age', 'registered_date',
+       'registered_age', 'id_name', 'id_value', 'picture_large',
+       'picture_medium', 'picture_thumbnail'],
+      dtype='object')
+Index(['gender', 'email', 'phone', 'cell', 'nat', 'name_title', 'name_first',
+       'name_last', 'location_street_number', 'location_street_name',
+       'location_city', 'location_state', 'location_country',
+       'location_postcode', 'location_coordinates_latitude',
+       'location_coordinates_longitude', 'location_timezone_offset',
+       'location_timezone_description', 'login_uuid', 'login_username',
+       'login_password', 'login_salt', 'login_md5', 'login_sha1',
+       'login_sha256', 'dob_date', 'dob_age', 'registered_date',
+       'registered_age', 'id_name', 'id_value', 'picture_large',
+       'picture_medium', 'picture_thumbnail'],
+      dtype='object')
+Index(['gender', 'email', 'phone', 'cell', 'nat', 'name_title', 'name_first',
+       'name_last', 'location_street_number', 'location_street_name',
+       'location_city', 'location_state', 'location_country',
+       'location_postcode', 'location_coordinates_latitude',
+       'location_coordinates_longitude', 'location_timezone_offset',
+       'location_timezone_description', 'login_uuid', 'login_username',
+       'login_password', 'login_salt', 'login_md5', 'login_sha1',
+       'login_sha256', 'dob_date', 'dob_age', 'registered_date',
+       'registered_age', 'id_name', 'id_value', 'picture_large',
+       'picture_medium', 'picture_thumbnail'],
+      dtype='object')
+Index(['gender', 'email', 'phone', 'cell', 'nat', 'name_title', 'name_first',
+       'name_last', 'location_street_number', 'location_street_name',
+       'location_city', 'location_state', 'location_country',
+       'location_postcode', 'location_coordinates_latitude',
+       'location_coordinates_longitude', 'location_timezone_offset',
+       'location_timezone_description', 'login_uuid', 'login_username',
+       'login_password', 'login_salt', 'login_md5', 'login_sha1',
+       'login_sha256', 'dob_date', 'dob_age', 'registered_date',
+       'registered_age', 'id_name', 'id_value', 'picture_large',
+       'picture_medium', 'picture_thumbnail'],
+      dtype='object')
+Index(['gender', 'email', 'phone', 'cell', 'nat', 'name_title', 'name_first',
+       'name_last', 'location_street_number', 'location_street_name',
+       'location_city', 'location_state', 'location_country',
+       'location_postcode', 'location_coordinates_latitude',
+       'location_coordinates_longitude', 'location_timezone_offset',
+       'location_timezone_description', 'login_uuid', 'login_username',
+       'login_password', 'login_salt', 'login_md5', 'login_sha1',
+       'login_sha256', 'dob_date', 'dob_age', 'registered_date',
+       'registered_age', 'id_name', 'id_value', 'picture_large',
+       'picture_medium', 'picture_thumbnail'],
+      dtype='object')
+Index(['gender', 'email', 'phone', 'cell', 'nat', 'name_title', 'name_first',
+       'name_last', 'location_street_number', 'location_street_name',
+       'location_city', 'location_state', 'location_country',
+       'location_postcode', 'location_coordinates_latitude',
+       'location_coordinates_longitude', 'location_timezone_offset',
+       'location_timezone_description', 'login_uuid', 'login_username',
+       'login_password', 'login_salt', 'login_md5', 'login_sha1',
+       'login_sha256', 'dob_date', 'dob_age', 'registered_date',
+       'registered_age', 'id_name', 'id_value', 'picture_large',
+       'picture_medium', 'picture_thumbnail'],
+      dtype='object')
+Index(['gender', 'email', 'phone', 'cell', 'nat', 'name_title', 'name_first',
+       'name_last', 'location_street_number', 'location_street_name',
+       'location_city', 'location_state', 'location_country',
+       'location_postcode', 'location_coordinates_latitude',
+       'location_coordinates_longitude', 'location_timezone_offset',
+       'location_timezone_description', 'login_uuid', 'login_username',
+       'login_password', 'login_salt', 'login_md5', 'login_sha1',
+       'login_sha256', 'dob_date', 'dob_age', 'registered_date',
+       'registered_age', 'id_name', 'id_value', 'picture_large',
+       'picture_medium', 'picture_thumbnail'],
+      dtype='object')
+Index(['gender', 'email', 'phone', 'cell', 'nat', 'name_title', 'name_first',
+       'name_last', 'location_street_number', 'location_street_name',
+       'location_city', 'location_state', 'location_country',
+       'location_postcode', 'location_coordinates_latitude',
+       'location_coordinates_longitude', 'location_timezone_offset',
+       'location_timezone_description', 'login_uuid', 'login_username',
+       'login_password', 'login_salt', 'login_md5', 'login_sha1',
+       'login_sha256', 'dob_date', 'dob_age', 'registered_date',
+       'registered_age', 'id_name', 'id_value', 'picture_large',
+       'picture_medium', 'picture_thumbnail'],
+      dtype='object')
+  Stopping...
+  Stopping...
+ROOT: send signal SIGTERM(15) to 6610 from 6604 with timeout 0.20
   Stopping...
 ROOT: interrupt tox environment: py312
-ROOT: requested interrupt of 1959 from 1953, activate in 0.00
-ROOT: send signal SIGINT(2) to 1959 from 1953 with timeout 0.30
+ROOT: requested interrupt of 6610 from 6604, activate in 0.00
+ROOT: send signal SIGINT(2) to 6610 from 6604 with timeout 0.30
   Stopping...
-ROOT: send signal SIGTERM(15) to 1959 from 1953 with timeout 0.20
+ROOT: send signal SIGKILL(9) to 6610 from 6604
 ROOT: interrupt finished with success
-py312: exit -15 (340.83 seconds) /mnt/c/Users/vdsilva/Downloads/VSCode/GitHub/viniciusdauricio/Phyton Programming> streamlit run src/app.py pid=1959
-  py312: FAIL code -15 (345.94=setup[5.11]+cmd[340.83] seconds)
-  py313: FAIL code -3 (0.01 seconds)
-  evaluation failed :( (348.17 seconds)
+ROOT: interrupt finished with success
+py312: exit -9 (9499.22 seconds) /mnt/c/Users/vdsilva/Downloads/VSCode/GitHub/viniciusdauricio/Phyton Programming> streamlit run src/app.py pid=6610
+  py312: SKIP (0.01 seconds)
+  py313: SKIP (0.01 seconds)
+  evaluation failed :( (9506.81 seconds)
